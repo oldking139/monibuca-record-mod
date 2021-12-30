@@ -1,3 +1,6 @@
+本仓库根据官方record插件改造，每次推流文件将重命名为“流名称+时间.flv”。
+
+
 # record插件
 record plugin for monibuca
 
